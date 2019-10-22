@@ -1,0 +1,11 @@
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\obj\Debug\netcoreapp3.0\UnitTest.csprojAssemblyReference.cache
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\obj\Debug\netcoreapp3.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\obj\Debug\netcoreapp3.0\UnitTest.AssemblyInfo.cs
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\bin\Debug\netcoreapp3.0\UnitTest.exe
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\bin\Debug\netcoreapp3.0\UnitTest.deps.json
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\bin\Debug\netcoreapp3.0\UnitTest.runtimeconfig.json
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\bin\Debug\netcoreapp3.0\UnitTest.runtimeconfig.dev.json
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\bin\Debug\netcoreapp3.0\UnitTest.dll
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\bin\Debug\netcoreapp3.0\UnitTest.pdb
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\obj\Debug\netcoreapp3.0\UnitTest.dll
+C:\Users\Duy Nguyen\source\repos\UnitTest\UnitTest\obj\Debug\netcoreapp3.0\UnitTest.pdb
